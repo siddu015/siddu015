@@ -1,6 +1,6 @@
 # Srinath Reddy
 
-![Portfolio Preview](insert-image-url-here)
+[Visit My Portfolio](https://srinathreddy.netlify.app/)
 
 ## Introduction
 
