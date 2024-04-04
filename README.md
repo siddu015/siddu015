@@ -16,7 +16,6 @@ I am a second-year student specializing in Artificial Intelligence and Data Scie
 - Actively learning MERN stack development to create rich, interactive web applications.
 - Experienced in Python, Java, C, JavaScript, HTML/CSS, and SQL.
 - Skilled in developing projects ranging from a Python-based Restaurant Management System to a Spotify clone using HTML, CSS, and JavaScript.
-- Open-source developer with contributions to various projects.
 - Proficient in video editing, particularly on Macbook Pro, as a hobby.
 
 ## Get in Touch
