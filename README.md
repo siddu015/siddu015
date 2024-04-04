@@ -4,7 +4,8 @@
 
 ## Introduction
 
-Welcome to Srinath Reddy's Portfolio! This repository showcases the projects, articles, and other content created by Srinath Reddy. Here, you'll find a collection of software engineering projects, insightful articles, and various resources related to web development, AI & Data Science, and more.
+Welcome to My Portfolio! This repository showcases the projects, articles, and other content created by 
+me. Here, you'll find a collection of software engineering projects, insightful articles, and various resources related to web development, AI & Data Science, and more.
 
 ## About Me
 
