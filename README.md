@@ -1,28 +1,42 @@
-# Srinath Reddy
+<h1 align="left">Hey 👋 Srinath Here!</h1>
 
 [Visit My Portfolio](https://srinathreddy.netlify.app/)
 
-## Introduction
 
-Welcome to My Portfolio! This repository showcases the projects, articles, and other content created by 
-me. Here, you'll find a collection of software engineering projects, insightful articles, and various resources related to web development, AI & Data Science, and more.
+<h2 align="left">About me</h2>
 
-## About Me
+<p align="left">📚 I'm currently learning MERN Stack Development & DSA<br>📱 Prev. JAVA Advance <br>🎯 Goals: Data Scientist, DevOps Engineer<br>📽️Hobby: Proficient in video editing <br> 🎲 Fun fact: Nothing fun here</p>
 
-I am a second-year student specializing in Artificial Intelligence and Data Science (AI&DS). Alongside my academic pursuits, I am actively mastering MERN stack development, with a focus on crafting full-stack applications with immersive UI/UX experiences. I have a passion for creating user-centric experiences and enjoy bringing ideas to life through code.
+###
 
-### Key Highlights:
+<h2 align="left">I code with</h2>
 
-- Currently pursuing a Bachelor of Technology in Computer Science Engineering with a specialization in Artificial Intelligence and Data Science at REVA University, Bangalore, India.
-- Actively learning MERN stack development to create rich, interactive web applications.
-- Experienced in Python, Java, C, JavaScript, HTML/CSS, and SQL.
-- Skilled in developing projects ranging from a Python-based Restaurant Management System to a Spotify clone using HTML, CSS, and JavaScript.
-- Proficient in video editing, particularly on Macbook Pro, as a hobby.
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+
 
 ## Get in Touch
 
 - LinkedIn: [Srinath Reddy](https://www.linkedin.com/in/srinath-reddy-0a57a224b/)
 - GitHub: [Srinath Reddy](https://github.com/siddu015)
 - Email: srinathreddy0115@gmail.com
-
-Feel free to explore the repository and reach out for any inquiries or collaborations!
