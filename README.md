@@ -57,6 +57,11 @@
 
 ## Get in Touch
 
-<img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="LinkedIn logo"  /> [Srinath Reddy](https://www.linkedin.com/in/srinath-reddy-0a57a224b/) <img width="20" /> </br> </br>
-<img src="https://skillicons.dev/icons?i=github" height="25" alt="Github logo"  /> [Srinath Reddy](https://github.com/siddu015) <img width="20" /> </br> </br>
-<img src="https://skillicons.dev/icons?i=gmail" height="25" alt="Gmail logo"  />  srinathreddy0115@gmail.com  <img width="20" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="LinkedIn logo"  /> [Srinath Reddy](https://www.linkedin.com/in/srinath-reddy-0a57a224b/) <img width="20" /> 
+</br> </br>
+<img src="https://skillicons.dev/icons?i=github" height="25" alt="Github logo"  /> [Srinath Reddy](https://github.com/siddu015) <img width="20" />
+</br> </br>
+<img src="https://skillicons.dev/icons?i=twitter" height="25" alt="Twitter logo"  /> [Srinath Reddy](https://twitter.com/Srinath0115)  <img width="20" />
+</br> </br>
+<img src="https://skillicons.dev/icons?i=gmail" height="25" alt="Gmail logo"  />  (srinathreddy0115@gmail.com)  <img width="20" />
+
