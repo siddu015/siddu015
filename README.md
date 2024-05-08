@@ -1,10 +1,8 @@
 <h1 align="left">Hey 👋 Srinath Here!</h1>
 
-<img src="readme.gif" width="100%">
-
 <p align="center">
   <a href="https://srinathreddy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/srinath-reddy-0a57a224b/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
@@ -23,7 +21,6 @@ I'm a developer with the interest of building projects,currently working with ML
 
 See [my website](https://srinathreddy.netlify.app/) for more information!
 
-</br>
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 
@@ -82,13 +79,13 @@ See [my website](https://srinathreddy.netlify.app/) for more information!
 
 <!--Snake animation -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddu015/siddu015/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddu015/siddu015/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddu015/siddu015/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddu015/siddu015/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddu015/siddu015/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddu015/siddu015/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+  </picture>
+<div/>
 
 
 
@@ -97,13 +94,16 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 <p align="center">
-  <a href="https://srinathreddy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/srinath-reddy-0a57a224b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" style="border: none;" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Srinath0115" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter logo" style="border: none;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:srinathreddy0115@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail logo" style="border: none;" />
   </a>
 </p>
+
