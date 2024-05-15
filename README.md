@@ -15,7 +15,7 @@ See [my website](https://srinathreddy.netlify.app/) for more information!
   </p>
   
   <img  src="https://streak-stats.demolab.com?user=siddu015&theme=aura&hide_border=true&card_width=550"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=siddu015&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/> </br>
+  <!-- <img  src="https://github-readme-stats.vercel.app/api?username=siddu015&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/> </br> -->
 </div>
 
 
@@ -72,7 +72,9 @@ See [my website](https://srinathreddy.netlify.app/) for more information!
 
 <p align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srinath-reddy-0a57a224b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://hashnode.com/@srinathhh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Srinath0115) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srinath-reddy-0a57a224b/) 
+  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://hashnode.com/@srinathhh) 
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Srinath0115) 
 
 </p>
 
