@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Srinath Here!</h1>
 
 
-I'm a developer with an interest in building projects, currently working with Machine Learning and MERN Stack
+I'm a developer with an interest in building projects, currently working with Machine Learning and MERN Stack.
 
 See [my website](https://srinathreddy.netlify.app/) for more information!
 
