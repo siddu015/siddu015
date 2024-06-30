@@ -15,7 +15,7 @@ See [my website](https://srinathreddy.netlify.app/) for more information!
   </p>
   
   <img  src="https://streak-stats.demolab.com?user=siddu015&theme=aura&hide_border=true&card_width=550"/>
-  <!-- <img  src="https://github-readme-stats.vercel.app/api?username=siddu015&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/> </br> -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=siddu015&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/> </br> 
 </div>
 
 
